@@ -1,6 +1,4 @@
-<div align="center">
-
-![Bruno Almeida — Cybersecurity Professional](github-profile-banner.png)
+  <div align="center">
 
 [**Explore my interactive portfolio**](https://brunoalmeida90.github.io/) · [**GitHub projects**](https://github.com/brunoalmeida90?tab=repositories)
 
