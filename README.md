@@ -1,49 +1,47 @@
-# 👋 Hi there, I'm Bruno Almeida
+# Bruno Almeida
 
-### Cybersecurity Professional | Offensive Security | Threat Detection | AI Security
+Cybersecurity professional based in São Paulo, Brazil.
 
-I'm a cybersecurity professional based in Brazil, with experience in **Security Operations, Threat Detection, Incident Response, Security Architecture, and Offensive Security**.
+My work spans security operations, incident investigation, threat detection, and security engineering, with experience in both defensive and offensive security.
 
-My background combines hands-on security operations, threat intelligence, vulnerability assessment, and penetration testing, with a growing focus on the intersection of **Artificial Intelligence and Cybersecurity**.
+I currently work in a Security Operations Center, focusing on incident analysis, threat hunting, detection engineering, and security controls. My background also includes security architecture, risk assessment, and penetration testing.
 
-I believe that understanding how systems are attacked is essential to building stronger defenses.
+Outside of work, I spend much of my time studying offensive security, experimenting with Linux environments, building home labs, and exploring artificial intelligence.
 
-### 🛡️ Areas of Expertise & Interest
+I'm particularly interested in understanding how systems work, how they fail, and how they can be exploited or defended.
 
-- **Security Operations:** SOC, SIEM, EDR/XDR, Incident Response, Threat Hunting, Detection Engineering
-- **Offensive Security:** Penetration Testing, Web & API Security, Vulnerability Assessment, Active Directory Security
-- **Security Engineering:** Network Security, Cloud Security, SASE/CASB, Identity & Access Management
-- **Cyber Threat Intelligence:** Threat Analysis, Adversary Tactics, Techniques & Procedures
-- **AI & Security:** Artificial Intelligence, Machine Learning, AI Security and Security Automation
+## Technical interests
 
-### 🏅 Certifications
+Offensive Security · Penetration Testing · Threat Intelligence · Detection Engineering · Incident Response · Network Security · Artificial Intelligence
 
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
-- ITIL 4 Foundation
-- EXIN ISO/IEC 27001
-- Kaspersky Endpoint Security and Management
+## Certifications
 
-### 💻 Technologies & Tools
+CompTIA Security+ · CompTIA CySA+ · CompTIA PenTest+ · ITIL 4 Foundation · EXIN ISO/IEC 27001
 
-**Security:** Elastic SIEM · CrowdStrike · Netskope · Microsoft Defender · Wazuh · Qualys · Burp Suite · Nmap · Metasploit
+## Current work and research
 
-**Systems & Networking:** Linux · Windows · TCP/IP · Network Security · Virtualization
+I'm currently pursuing advanced penetration testing training through Hack The Box Academy, while continuing my postgraduate studies in Artificial Intelligence.
 
-**Programming & Development:** Python · Bash · PowerShell · JavaScript · HTML · CSS · Git
+My personal projects include cybersecurity laboratories, network monitoring environments, local AI experimentation, and an interactive portfolio built with JavaScript and Three.js.
 
-**Learning & Research:** Hack The Box · TryHackMe · AI/ML · Offensive Security Research
+## Portfolio
 
-### 🚀 Featured Project
+[brunoalmeida90.github.io](https://brunoalmeida90.github.io/)
 
-**Interactive Cybersecurity Portfolio**
+---
 
-An interactive, space-themed portfolio developed with JavaScript and Three.js, exploring my professional journey, technical research, cybersecurity projects, and interests in artificial intelligence and astronomy.
 
-🌐 **[Explore my interactive portfolio](https://brunoalmeida90.github.io/)**
+<div align="left">
+  <img src="https://cdn.simpleicons.org/kalilinux" height="32" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/metasploit" height="32" alt="Metasploit" />
+  <img src="https://cdn.simpleicons.org/burpsuite" height="32" alt="Burp Suite" />
+  <img src="https://cdn.simpleicons.org/wireshark" height="32" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/elastic" height="32" alt="Elastic" />
+  <img src="https://cdn.simpleicons.org/wazuh" height="32" alt="Wazuh" />
+  <img src="https://cdn.simpleicons.org/pytorch" height="32" alt="PyTorch" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="32" alt="Hugging Face" />
+</div>
 
-### 🎯 Currently Focused On
 
 - Advancing my offensive security skills through the **Hack The Box Certified Penetration Testing Specialist (CPTS)** learning path
 - Building practical cybersecurity and home lab projects
