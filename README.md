@@ -37,7 +37,6 @@ My personal projects include cybersecurity laboratories, network monitoring envi
   <img src="https://cdn.simpleicons.org/burpsuite" height="32" alt="Burp Suite" />
   <img src="https://cdn.simpleicons.org/wireshark" height="32" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/elastic" height="32" alt="Elastic" />
-  <img src="https://cdn.simpleicons.org/wazuh" height="32" alt="Wazuh" />
   <img src="https://cdn.simpleicons.org/pytorch" height="32" alt="PyTorch" />
   <img src="https://cdn.simpleicons.org/huggingface" height="32" alt="Hugging Face" />
 </div>
