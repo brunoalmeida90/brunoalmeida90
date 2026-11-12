@@ -1,14 +1,56 @@
-## 👋 Hi there, my name is Bruno, and... 
+# 👋 Hi there, I'm Bruno Almeida
 
-- 🔭 I’m currently studying cybersecurity and programming
-- 🌱 I’m currently learning some Python, Golang and Linux
+### Cybersecurity Professional | Offensive Security | Threat Detection | AI Security
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-</div>
+I'm a cybersecurity professional based in Brazil, with experience in **Security Operations, Threat Detection, Incident Response, Security Architecture, and Offensive Security**.
+
+My background combines hands-on security operations, threat intelligence, vulnerability assessment, and penetration testing, with a growing focus on the intersection of **Artificial Intelligence and Cybersecurity**.
+
+I believe that understanding how systems are attacked is essential to building stronger defenses.
+
+### 🛡️ Areas of Expertise & Interest
+
+- **Security Operations:** SOC, SIEM, EDR/XDR, Incident Response, Threat Hunting, Detection Engineering
+- **Offensive Security:** Penetration Testing, Web & API Security, Vulnerability Assessment, Active Directory Security
+- **Security Engineering:** Network Security, Cloud Security, SASE/CASB, Identity & Access Management
+- **Cyber Threat Intelligence:** Threat Analysis, Adversary Tactics, Techniques & Procedures
+- **AI & Security:** Artificial Intelligence, Machine Learning, AI Security and Security Automation
+
+### 🏅 Certifications
+
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA PenTest+
+- ITIL 4 Foundation
+- EXIN ISO/IEC 27001
+- Kaspersky Endpoint Security and Management
+
+### 💻 Technologies & Tools
+
+**Security:** Elastic SIEM · CrowdStrike · Netskope · Microsoft Defender · Wazuh · Qualys · Burp Suite · Nmap · Metasploit
+
+**Systems & Networking:** Linux · Windows · TCP/IP · Network Security · Virtualization
+
+**Programming & Development:** Python · Bash · PowerShell · JavaScript · HTML · CSS · Git
+
+**Learning & Research:** Hack The Box · TryHackMe · AI/ML · Offensive Security Research
+
+### 🚀 Featured Project
+
+**Interactive Cybersecurity Portfolio**
+
+An interactive, space-themed portfolio developed with JavaScript and Three.js, exploring my professional journey, technical research, cybersecurity projects, and interests in artificial intelligence and astronomy.
+
+🌐 **[Explore my interactive portfolio](https://brunoalmeida90.github.io/)**
+
+### 🎯 Currently Focused On
+
+- Advancing my offensive security skills through the **Hack The Box Certified Penetration Testing Specialist (CPTS)** learning path
+- Building practical cybersecurity and home lab projects
+- Exploring the intersection of AI, cybersecurity, and adversarial techniques
+- Deepening my knowledge of threat intelligence and advanced penetration testing
+
+---
+
+*“Somewhere, something incredible is waiting to be known.” — Carl Sagan*
 
